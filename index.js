@@ -19,3 +19,7 @@ function johnLennonFacts(facts) {
 
   return factsWithExclamationMarks
 }
+
+function iLoveTheBeatles(number){
+  
+}
